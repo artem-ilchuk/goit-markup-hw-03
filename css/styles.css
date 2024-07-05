@@ -327,7 +327,6 @@ img {
 
 .footer-container {
   background-color: #2e2f42;
-  display: inline-block;
   padding: 116px 1010px 84px 0;
 }
 .footer-list {
@@ -335,6 +334,8 @@ img {
 }
 
 .footer-logo {
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .footer-logo .logo-part {
@@ -346,7 +347,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-top: 16px;
 }
 
 /* --------------------------- */
